@@ -7,7 +7,7 @@ NCategory Cafe Archiver is a tool designed to periodically crawl and archive the
 Created by Julius Hamilton.
 Contact: [hlmtn-2@proton.me](mailto:hlmtn-2@proton.me)
 
-### Academic Citation
+Academic Citation\n\nNCategory Cafe. Group blog on mathematics, physics, and philosophy. Created and maintained by contributors such as Emily Riehl, Tom Leinster, John Baez, and David Corfield. Retrieved from https://golem.ph.utexas.edu/category/. Accessed on $(date +%Y-%m-%d).
 
 When citing the website, please use the following format:
 
