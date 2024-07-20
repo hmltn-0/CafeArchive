@@ -6,6 +6,30 @@ NCategory Cafe Archiver is a tool designed to periodically crawl and archive the
 
 ## Installation
 
+### Development Setup
+
+1. Clone the repository:
+```sh
+git clone https://github.com/hmltn-0/ncafe-archiver.git
+cd ncafe-archiver
+```
+
+2. Create and activate a virtual environment:
+```sh
+python3 -m venv venv
+source venv/bin/activate
+```
+
+3. Install the required packages:
+```sh
+pip install -r requirements.txt
+```
+
+4. (Optional) Run tests to ensure the setup is correct:
+```sh
+pytest
+```
+
 ## Usage
 
 ## Contributing
