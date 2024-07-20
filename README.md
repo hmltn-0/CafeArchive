@@ -71,11 +71,7 @@ We use different branches for various development efforts. Here are the main bra
 
 ## Support
 
-Running the crawler incurs some server expenses. If you'd like to help support the project, you can donate through the following link:
-
-[BuyMeACoffee](https://www.buymeacoffee.com/yourlink)
-
-Alternatively, if you wish to sponsor a server or provide additional resources for this open-source project, please contact Julius Hamilton at [hlmtn-2@proton.me](mailto:hlmtn-2@proton.me).
+If you would like to support the development of this project, or sponsor a server to keep the archiver running, you can donate via BuyMeACoffee at [BuyMeACoffee](https://www.buymeacoffee.com/ncafe-archiver) or contact Julius Hamilton at hlmtn-2@proton.me.
 
 ## License
 
