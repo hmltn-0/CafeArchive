@@ -1,6 +1,20 @@
-digraph G {
-    A -> B;
-    A -> C;
-    B -> D;
-    C -> D;
+digraph WebsiteStructure {
+    rankdir=TB;
+    node [shape=box];
+
+    Website [label="A Website"];
+    SetOfWebpages [label="A Set of Webpages"];
+    Webpage [label="A Webpage"];
+    SetOfURLs [label="A Set of URLs"];
+    BlogPost [label="A Blog Post"];
+    ImageLink [label="An Image Link"];
+    URL [label="A URL"];
+    
+    Website -> SetOfWebpages [label="Has"];
+    Webpage -> SetOfURLs [label="Has"];
+    BlogPost -> URL [label="is a type of"];
+    ImageLink -> URL [label="is a type of"];
+    
+    Website -> SetOfWebpages [label="w_0", style="dotted", dir=both, arrowType=none, arrowhead=none];
+    Webpage -> SetOfWebpages [label="is", arrowhead=normal];
 }
