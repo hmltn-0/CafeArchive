@@ -4,8 +4,18 @@
 
 NCategory Cafe Archiver is a tool designed to periodically crawl and archive the [NCategory Cafe website](https://golem.ph.utexas.edu/category/). Its primary purpose is to preserve the content as a backup, ensuring that the information remains accessible even if the original site becomes unavailable. This can be considered a mirror of the NCategory Cafe website, providing a reliable copy of the online content.
 
-For more information, refer to the site configuration in `config.json`.
+Created by Julius Hamilton.
+Contact: [hlmtn-2@proton.me](mailto:hlmtn-2@proton.me)
 
+### Academic Citation
+
+When citing the website, please use the following format:
+
+```
+NCategory Cafe. Retrieved from https://golem.ph.utexas.edu/category/. Accessed on [date].
+```
+
+For additional details, please refer to the site configuration in `config.json`.
 
 ## Installation
 
@@ -60,6 +70,14 @@ We use different branches for various development efforts. Here are the main bra
 - `feature/*`: Feature branches for new features (e.g., `feature/readme-update`).
 - `bugfix/*`: Bug fix branches for resolving issues (e.g., `bugfix/issue-123`).
 
+## Support
+
+Running the crawler incurs some server expenses. If you'd like to help support the project, you can donate through the following link:
+
+[BuyMeACoffee](https://www.buymeacoffee.com/yourlink)
+
+Alternatively, if you wish to sponsor a server or provide additional resources for this open-source project, please contact Julius Hamilton at [hlmtn-2@proton.me](mailto:hlmtn-2@proton.me).
+
 ## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You are free to:
@@ -79,7 +97,3 @@ Additional terms:
 - If you wish to use this tool for commercial purposes, you must obtain permission from the original author.
 
 For more details, you can view the full [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
-
-
-
-
