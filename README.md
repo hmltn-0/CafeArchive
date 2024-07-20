@@ -35,6 +35,20 @@ pytest
 
 ## Usage
 
+The archive content and mirror are available at the following URL: [ncatreader.example.com](https://ncatreader.example.com). You don't need to do anything special to use it; simply visit the website.
+
+### Features:
+- Download posts in different formats
+- Conveniently generate citations for the articles
+
+### Running Your Own Crawler
+
+If you wish to run your own crawler, perhaps to preserve another academic site or in the event that this crawler goes down, refer to the installation instructions in the [Installation](#installation) section above.
+
+For detailed information on configuring and running the crawler, including crawling strategy, frequency, and more, please refer to the [Documentation.pdf](Documentation.pdf) included in the repository.
+
+Ensure you use appropriate rate limiting to minimize impact on the servers you are archiving.
+
 ## Contributing
 
 If you are interested in contributing, please check our [Issues](https://github.com/hmltn-0/ncafe-archiver/issues) for tasks and bugs that need assistance. You can also check out our [GitHub Projects](https://github.com/hmltn-0/ncafe-archiver/projects) to see an overview of ongoing development.
