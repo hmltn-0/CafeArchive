@@ -2,3 +2,7 @@ venv/
 __pycache__/
 *.pyc
 ncafe_env/
+*.aux
+*.log
+*.out
+*.toc
