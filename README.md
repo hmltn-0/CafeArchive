@@ -12,3 +12,18 @@ NCategory Cafe Archiver is a tool designed to periodically crawl and archive the
 
 ## License
 
+
+## Development Branches
+
+We use different branches for various development efforts. Here are the main branches and their purposes:
+
+- `main`: The stable version of the project.
+- `develop`: The development branch where the latest features and bug fixes are integrated.
+- `feature/*`: Feature branches for new features (e.g., `feature/readme-update`).
+- `bugfix/*`: Bug fix branches for resolving issues (e.g., `bugfix/issue-123`).
+
+If you are interested in contributing, please check our [Issues](https://github.com/yourusername/ncafe-archiver/issues) for tasks and bugs that need assistance.
+
+You can also check out our [GitHub Projects](https://github.com/yourusername/ncafe-archiver/projects) to see an overview of ongoing development.
+
+
