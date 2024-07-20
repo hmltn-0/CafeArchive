@@ -69,7 +69,7 @@ We use different branches for various development efforts. Here are the main bra
 - `feature/*`: Feature branches for new features (e.g., `feature/readme-update`).
 - `bugfix/*`: Bug fix branches for resolving issues (e.g., `bugfix/issue-123`).
 
-## Support
+### Support
 
 If you would like to support the development of this project, or sponsor a server to keep the archiver running, you can donate via BuyMeACoffee at [BuyMeACoffee](https://www.buymeacoffee.com/ncafe-archiver) or contact Julius Hamilton at hlmtn-2@proton.me.
 
